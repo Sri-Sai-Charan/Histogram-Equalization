@@ -9,15 +9,15 @@ python3 histogram_equalization.py
 ## Results
 ![image](Results/og.png)
 <br>
-Original Image
+<p align='center'>Original Image</p>
 <br>
 ![image](Results/adaptive_hist.png)
 <br>
-Adaptive Histogram Equalization
+<p align='center'>Adaptive Histogram</p>
 <br>
 ![image](Results/hist.png)
 <br>
-Histogram Equalization
+<p align='center'>Histogram Equalization</p>
 <br>
 
 ## Folder Structure
