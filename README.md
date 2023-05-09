@@ -11,11 +11,11 @@ python3 histogram_equalization.py
 <br>
 <p align='center'>Original Image</p>
 <br>
-![image](Results/adaptive_hist.png)
+<img src='Results/adaptive_hist.png'>
 <br>
 <p align='center'>Adaptive Histogram</p>
 <br>
-![image](Results/hist.png)
+<img src='Results/hist.png'>
 <br>
 <p align='center'>Histogram Equalization</p>
 <br>
