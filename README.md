@@ -7,9 +7,19 @@ python3 histogram_equalization.py
 ```
 
 ## Results
+![image](Results/og.png)
+<br>
+Original Image
+<br>
 ![image](Results/adaptive_hist.png)
+<br>
+Adaptive Histogram Equalization
+<br>
 ![image](Results/hist.png)
-![image](Results/hist_equal.png)
+<br>
+Histogram Equalization
+<br>
+
 ## Folder Structure
 ```
 📦Histogram-Equalization
